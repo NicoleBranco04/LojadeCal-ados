@@ -100,7 +100,7 @@ public class TelaCliente extends JFrame {
 		JPanel pnlTitulo = new JPanel();
 		pnlTitulo.setBackground(new Color(102, 102, 102));
 		pnlTitulo.setBorder(new LineBorder(new Color(0, 0, 0), 2));
-		pnlTitulo.setBounds(10, 11, 1001, 144);
+		pnlTitulo.setBounds(10, 11, 970, 144);
 		contentPane.add(pnlTitulo);
 		pnlTitulo.setLayout(null);
 		
